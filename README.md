@@ -24,6 +24,7 @@ You'll get opened browser for authentication for accessing the google drive in L
 
 Now, makedir in linux os
 >>mkdir ~/google-drive
+For mounting in OS
 >> google-drive-ocamlfuse ~/google-drive // for mount your Google Drive to the google-drive folder.
 
 When you want to unmount the google-drive folder, issue the command
